@@ -1,5 +1,5 @@
 
-<div style="display: flex; flex-direction: column; align-items: center">
+<div style="display: flex; flex-direction: row; align-items: center">
   <div>
     <img src="https://s3.eu-central-1.wasabisys.com/somefiles/work.gif" style="border-radius: 25px;"/>
   </div>
