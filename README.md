@@ -3,11 +3,11 @@
 
 <h3>A Little About Me</h3>
 
-<pre>
-  Hi, I'm Paulo, the typical friend who believes that with an Arduino can solve any technological problem.
-  Since I was a child I have always liked to disassemble and tinker with everything that has screws, wires, batteries, LEDs or anything that you give electricity and can be turned on.
-  Luckily all this love and passion for these areas has allowed me to make a living with it and I hope it will be like this for a long time more.
-</pre>
+<p>
+  Hi, I'm Paulo, the typical friend who believes that with an Arduino can solve any technological problem.<br>
+  Since I was a child I have always liked to disassemble and tinker with everything that has screws, wires, batteries, LEDs or anything that you give electricity and can be turned on.<br>
+  Luckily all this love and passion for these areas has allowed me to make a living with it and I hope it will be like this for a long time more.<br>
+</p>
 
 <!--
 <p>Welcome to my page! </br> I'm Thomas, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Lorient, France</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Stockholm, Sweden</b>. </p>
