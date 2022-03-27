@@ -3,15 +3,17 @@
 
 <h3>A Little About Me</h3>
 
-<p>Hi, I'm Paulo, I am passionate about computers and electronics, the typical friend who believes that with an Arduino can solve any technological problem. Since I was a child I have always liked to disassemble and tinker with everything that has screws, wires, batteries, LEDs or anything that you give electricity and can be turned on.
-Luckily all this love and passion for these areas has allowed me to make a living with it and I hope it will be like this for a long time more.<p>
+<p>Hi, I'm Paulo, the typical friend who believes that with an Arduino can solve any technological problem.</p>
+<p>Since I was a child I have always liked to disassemble and tinker with everything that has screws, wires, batteries, LEDs or anything that you give electricity and can be turned on.</p>
+
+<p>Luckily all this love and passion for these areas has allowed me to make a living with it and I hope it will be like this for a long time more.<p>
 
 <!--
 <p>Welcome to my page! </br> I'm Thomas, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Lorient, France</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Stockholm, Sweden</b>. </p>
 <h3>Things I code with</h3>
 -->
 
-<h3>The Things I think about in my sleep 💤</h3>
+<h3>The Things I Think About In My Dreams 💤</h3>
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -58,20 +60,6 @@ Luckily all this love and passion for these areas has allowed me to make a livin
       <td><img alt="Forks" src="https://img.shields.io/github/forks/Nikola43/web3helper?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/Nikola43/web3helper?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Nikola43/web3helper?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-	  <tr>
-      <td><a href="https://github.com/Nikola43/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Typescript & React Chrome Extension Starter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Nikola43/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Nikola43/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Nikola43/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Nikola43/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Nikola43/nodejs-typescript-express-apollo-graphql-starter"><b>NodeJs Express TypeScript GraphQL Starter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Nikola43/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Nikola43/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Nikola43/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Nikola43/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
