@@ -1,8 +1,14 @@
-<h1><img src="https://s3.eu-central-1.wasabisys.com/somefiles/work.gif" /> Hey! Nice to see you.</h1>
 
+<div style="display: flex; align-items: center">
+  <div>
+    <img src="https://s3.eu-central-1.wasabisys.com/somefiles/work.gif" style="border-radius: 25px;"/>
+  </div>
+  <div>
+    <h1>Hey! Nice to see you.</h1>
+  </div>
+</div>
 
 <h3>ℹ️ A Little About Me ℹ️</h3>
-
 <p>
   Hi, I'm Paulo, the typical friend who believes that with an Arduino can solve any technological problem.<br>
   Since I was a child I have always liked to disassemble and tinker with everything that has screws, wires, batteries, LEDs or anything that you give electricity and can be turned on.<br>
