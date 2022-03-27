@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://slackmojis.com/emojis/10521-meow_code/image/1643515023/meow_code.gif" width="30"/> Hey! Nice to see you.</h1>
 
 
 <h3>ℹ️ A Little About Me ℹ️</h3>
