@@ -1,5 +1,5 @@
 
-<div style="margin: auto">
+<div style="margin-left: auto; margin-right: auto">
   <div>
     <img src="https://s3.eu-central-1.wasabisys.com/somefiles/work.gif" style="border-radius: 25px;"/>
   </div>
