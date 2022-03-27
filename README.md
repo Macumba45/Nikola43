@@ -1,9 +1,9 @@
 
 <div style="margin-left: auto !important; margin-right: auto !important;">
-  <div>
+  <div style="margin-left: auto !important; margin-right: auto !important;">
     <img src="https://s3.eu-central-1.wasabisys.com/somefiles/work.gif" style="border-radius: 25px;"/>
   </div>
-  <div>
+  <div style="margin-left: auto !important; margin-right: auto !important;">
     <h1>Hey! Nice to see you.</h1>
   </div>
 </div>
