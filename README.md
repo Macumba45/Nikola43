@@ -8,7 +8,7 @@
   </div>
 </div>
 
-<h3>ℹ️ A Little About Me ℹ️</h3>
+<h3>🌮ℹ️ A Little About Me ℹ️🌮</h3>
 <p>
   Hi, I'm Paulo, the typical friend who believes that with an Arduino can solve any technological problem.<br>
   Since I was a child I have always liked to disassemble and tinker with everything that has screws, wires, batteries, LEDs or anything that you give electricity and can be turned on.<br>
